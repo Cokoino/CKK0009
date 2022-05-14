@@ -8,4 +8,4 @@ Pico Kit for Raspberry Pi
 - Email: cokoino@outlook.com
 - Company website address：http://cokoino.com/
 - Facebook：https://www.facebook.com/cokoino.lk
-- Amazon: https://www.amazon.com/stores/COKOINO/page/D21BC7AE-4404-4508-89AA-BEDE7718902C?ref_=ast_bln
+- Amazon:https://www.amazon.com/dp/B09W652PMX?ref=myi_title_dp
